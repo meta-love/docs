@@ -12,7 +12,9 @@ Dai：XXXXXXXXXXXXXXXXXXXXX
 
 ## 捐款后会获得什么？
 
-Yes, after a few months we finally found the answer. Sadly, Mike is on vacations right now so I'm afraid we are not able to provide the answer at this point.
+你能获得MetaLove DAO 的 LOVE Token；
+
+你还能获得MetaLove提供的专有的NFT勋章，此勋章需要主动联系MetaLove领取。作为我们一枚独特的勋章，我们正在开拓它的用途。
 
 
 
