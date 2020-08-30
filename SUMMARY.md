@@ -10,3 +10,7 @@
   * [FAQ](faq/faq.md)
 * [贡献者](gong-xian-zhe.md)
 
+## zh
+
+* [关于](zh/guan-yu.md)
+
