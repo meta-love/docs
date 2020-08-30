@@ -1,5 +1,5 @@
 ---
-description: MetaLove Token 分为 META 与 LOVE
+description: MetaLove Token 分为 META 与 LOVE。
 ---
 
 # MetaLove Token
@@ -24,25 +24,17 @@ META仅能通过贡献获取，即帮助MetaLove公益事业的开展。
 
 ## LOVE是什么？有什么用？
 
-OVE作为DAO组织内的捐款凭证Token。跟META不同，LOVE无投票权，仅代表你的捐赠的资金情况。
+LOVE是DAO组织内的捐助凭证Token。跟META不同，LOVE无投票权，仅代表你的捐赠资金情况。
 
 LOVE的特点：
 
-* LOVE Token 锚定 1 DAI
-* LOVE Token会随着资金的销毁而减少
+* LOVE Token = 1 DAI
+* LOVE Token会随着资金的使用而减少
 * 你可以随时进行怒退。即是销毁LOVE，退出MetaLove DAO，取回LOVE数量对应的DAI
 
+## 如何获得LOVE？
 
-
-案例：
-
-小明向MetaLove DAO 捐款 1000 Dai，捐款成功后 MetaLove DAO 金库共有
-
-
-
-## Have you had a chance to answer the previous question?
-
-Yes, after a few months we finally found the answer. Sadly, Mike is on vacations right now so I'm afraid we are not able to provide the answer at this point.
+向MetaLove DAO的金库地址发送一定数量的DAI，MetaLove会自动为该地址添加相应数量的DAI（时间会有延迟，一般在24小时内）。
 
 
 
