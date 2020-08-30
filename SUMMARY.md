@@ -10,7 +10,3 @@
   * [FAQ](faq/faq.md)
 * [贡献者](gong-xian-zhe.md)
 
-## zh
-
-## EN
-
