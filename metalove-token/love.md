@@ -7,8 +7,8 @@ LOVE是DAO组织内的捐助凭证Token。跟META不同，LOVE无投票权，仅
 LOVE的特点：
 
 * LOVE Token = 1 DAI
-* LOVE Token会随着资金的使用而减少
-* 你可以随时进行怒退。即是销毁LOVE，退出MetaLove DAO，取回LOVE数量对应的DAI
+* LOVE Token 数量会随着每次资金的使用而减少
+* 你随时可以销毁LOVE，退出MetaLove DAO，取回LOVE数量对应的DAI
 
 ## 如何获得LOVE？
 
