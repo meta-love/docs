@@ -12,7 +12,7 @@ LOVE的特点：
 
 ## 如何获得LOVE？
 
-向MetaLove DAO的金库地址发送一定数量的DAI，MetaLove会自动为该地址添加相应数量的DAI（时间会有延迟，一般在24小时内）。
+向MetaLove DAO的金库地址发送一定数量的DAI，MetaLove会自动为该地址添加相应数量的LOVE（时间会有延迟，一般在24小时内）。
 
 
 
