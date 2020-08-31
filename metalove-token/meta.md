@@ -4,7 +4,7 @@
 
 META是MetaLove DAO组织治理Token。
 
-拥有META即可参与到DAO的治理，包括活动的举办、资金的使用等场景。
+拥有META即可参与到DAO的治理，包括活动的举办、资金的使用等。
 
 ## 如何获得META?
 
